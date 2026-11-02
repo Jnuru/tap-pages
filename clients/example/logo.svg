@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64">
+  <g fill="none" stroke="#1E2B24" stroke-width="2.2" stroke-linejoin="round">
+    <path d="M6 40 L26 18 L46 40"/>
+    <path d="M16 40 V58 H36 V40"/>
+  </g>
+  <text x="60" y="34" font-family="Georgia, serif" font-size="22" letter-spacing="-0.4" fill="#1E2B24">Harlow &amp; Pine</text>
+  <text x="61" y="54" font-family="Georgia, serif" font-size="9.5" letter-spacing="3.2" fill="#9C3F24">ROOFING CO.</text>
+</svg>

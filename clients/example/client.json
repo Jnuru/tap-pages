@@ -1,0 +1,39 @@
+{
+  "name": "Marcus Hale",
+  "title": "Owner",
+  "business": "Harlow & Pine Roofing",
+  "pitch": "Honest roofs for older St. Louis homes. Free estimates, same week.",
+
+  "logo": "logo.svg",
+
+  "colors": {
+    "background": "#EEEFE9",
+    "ink": "#1E2B24",
+    "accent": "#9C3F24"
+  },
+
+  "primary": {
+    "type": "book",
+    "label": "Book a free estimate",
+    "note": "Pick a time. 30 minutes on site.",
+    "value": "https://cal.com/example"
+  },
+
+  "phone": "(314) 555-0148",
+  "email": "marcus@harlowpine.example",
+  "website": "https://harlowpine.example",
+  "address": { "city": "St. Louis", "state": "MO" },
+
+  "links": [
+    { "type": "phone", "label": "Call", "value": "(314) 555-0148" },
+    { "type": "text", "label": "Text", "value": "(314) 555-0148" },
+    { "type": "email", "label": "Email", "value": "marcus@harlowpine.example" },
+    { "type": "reviews", "label": "Reviews", "url": "https://g.page/example", "show": "Google" },
+    { "type": "instagram", "label": "Instagram", "url": "https://www.instagram.com/harlowpine/", "show": "@harlowpine" },
+    { "type": "web", "label": "Website", "url": "https://harlowpine.example" }
+  ],
+
+  "domain": "",
+  "tagline": "Est. 2011 · Licensed & insured",
+  "credit": true
+}

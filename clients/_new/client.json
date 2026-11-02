@@ -1,0 +1,40 @@
+{
+  "name": "First Last",
+  "title": "Owner",
+  "business": "Business Name",
+  "pitch": "One line on what they do and who for.",
+
+  "photo": "photo.jpg",
+  "logo": "logo.svg",
+
+  "colors": {
+    "background": "#F5F2EA",
+    "ink": "#2A2826",
+    "accent": "#2A2826"
+  },
+  "font": "Source Serif 4",
+
+  "primary": {
+    "type": "call",
+    "label": "Call now",
+    "note": "Short line under the button. Optional.",
+    "value": ""
+  },
+
+  "phone": "(314) 555-0100",
+  "email": "hello@business.com",
+  "website": "https://business.com",
+  "address": { "street": "", "city": "St. Louis", "state": "MO", "zip": "" },
+
+  "links": [
+    { "type": "phone", "label": "Call", "value": "(314) 555-0100" },
+    { "type": "email", "label": "Email", "value": "hello@business.com" },
+    { "type": "instagram", "label": "Instagram", "url": "https://www.instagram.com/handle/", "show": "@handle" },
+    { "type": "web", "label": "Website", "url": "https://business.com" }
+  ],
+
+  "domain": "",
+  "tagline": "",
+  "credit": true,
+  "live": true
+}
